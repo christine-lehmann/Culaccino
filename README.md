@@ -1,8 +1,8 @@
-## CULACCINO
+## CULACCINO :coffee:
 
 This is a simple static website of Culaccino 
 
-Facebook Page :arrow_forward: https://www.facebook.com/CulaccinoJ.J :coffee:
+Facebook Page :arrow_forward: https://www.facebook.com/CulaccinoJ.J 
 
 <!--## Welcome to GitHub Pages
 
