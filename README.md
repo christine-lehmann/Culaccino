@@ -1,6 +1,6 @@
 ## CULACCINO :coffee:
 
-This is a simple static website of Culaccino 
+This is a sample website of Culaccino 
 
 Facebook Page :arrow_forward: https://www.facebook.com/CulaccinoJ.J 
 
